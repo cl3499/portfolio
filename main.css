@@ -1,0 +1,114 @@
+
+
+
+
+h1 {
+				text-align: left;
+				font-size: 50pt;
+				font-family: Arial, sans-serif;
+}
+
+nav {
+
+				color: white;
+				font-size: 15px;
+				text-align: left;
+				font-family: Arial, sans-serif;
+
+}
+
+a:link {
+  color: white;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: white;
+}
+
+a{
+	text-decoration: none;
+	word-spacing: 50px;
+}
+
+article{
+
+			font-size: 15px;
+			color: black;
+			padding: 50px;
+}
+
+ul {
+				list-style-type: none;
+				margin: 0;
+				padding: 0;
+
+}
+
+li {
+				display: inline;
+				margin-right: 15px;
+}
+
+h6 {
+
+				font-size: 7pt;
+
+}
+
+header{
+
+				background-color: black;
+				color: white;
+				font-size: 35px;
+				padding: 50px;
+				text-align: left;
+				font-family: Arial, sans-serif;
+
+
+}
+
+body {
+				background: #999999;
+        color: black;
+				font-size: 12px;
+				padding: none;
+				text-align: left;
+				font-family: Arial, sans-serif;
+				font-size: 9px;
+
+    }
+
+footer {
+		  background-color: black;
+			color: white;
+			font-size: 15px;
+		  padding: 50px;
+		  text-align: left;
+			font-family: Arial, sans-serif;
+
+}
+
+.button {
+  background-color: #000000;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
