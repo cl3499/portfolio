@@ -130,6 +130,8 @@ header{
 
 }
 
+
+
 body {
 
 				color: white;
@@ -138,9 +140,11 @@ body {
 				padding: none;
 				text-align: left;
 				font-family: Arial, sans-serif;
-				font-size: 9px;
+
 
     }
+
+
 
 footer {
 
